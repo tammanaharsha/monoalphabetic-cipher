@@ -1,5 +1,4 @@
-RAMA NAGA SATYA HARSHA TAMMANA
-rtamman1@binghamton.edu
+
 Python 3 
 
 yes tested on remote.cs.binghamton.edu
